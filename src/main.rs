@@ -14,7 +14,6 @@ use std::collections::HashSet;
 use std::env;
 use std::sync::Arc;
 
-use serenity::all::static_assertions::const_assert;
 use serenity::async_trait;
 use serenity::framework::standard::macros::group;
 use serenity::framework::standard::Configuration;
